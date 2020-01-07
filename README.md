@@ -1,2 +1,2 @@
-# arm64 python for rpi4
+# arm python for rpi4
 
